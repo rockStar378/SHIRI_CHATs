@@ -24,8 +24,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THUNDERDEVS")
-                await self.one.join_chat("ll_ISTKHAR_BABY")
+                await self.one.join_chat("shree_update")
+                await self.one.join_chat("vip_ankit_121")
                 await self.one.join_chat("THUNDER_SUPPROT")
                 await self.one.join_chat("THUNDER_SUPPROT")
 
